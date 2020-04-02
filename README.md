@@ -1,6 +1,7 @@
-# simple_crudApp_mysql_php
+# CRUD Application using MTSQL and PHP
 
 ## Snapshots
+<br>
 <p align="center">
   <img />
  Home page
