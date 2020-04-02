@@ -1,4 +1,4 @@
-# CRUD Application using MTSQL and PHP
+# Simple CRUD Application using PhP, MySqL
 
 ## Snapshots
 <br>
